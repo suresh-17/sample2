@@ -13,3 +13,5 @@ git checkout
 git branch
 
 git rebase
+
+git branch-D
